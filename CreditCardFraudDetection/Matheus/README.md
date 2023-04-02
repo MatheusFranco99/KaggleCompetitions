@@ -16,7 +16,7 @@
     - Feature transformation
         - common with signals with methods as: Wavelet transform, Fourier transform, binning / discretization (dividing countinuous numerical features into bins (intervals)), enconding (categorical features into numerical (e.g. one-hot encoding, label encoding, target encoding)),
     - Feature Selection
-        - dimensionality reduction (PCA, LDA, t-SNE), redundant, irrelevant, noise feature removal, randomized methods, correlation-based (pearson correlation coefficient, spearman rank correlation), filter methods (chi-square test, ANOVA, information gain, correlation coefficient)
+        - dimensionality reduction (PCA, LDA, t-SNE), redundant, irrelevant, noise feature removal, randomized methods, correlation-based (pearson correlation coefficient, spearman rank correlation), filter methods (chi-square test, ANOVA, information gain)
 - Model Selection
     - Linear models:
         - linear regression, logistic regression, ridge regression, lasso regression
